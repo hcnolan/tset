@@ -46,6 +46,10 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - admonition
 
 plugins:
   - search
