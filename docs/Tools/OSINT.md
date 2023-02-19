@@ -4,6 +4,7 @@
 -   [https://www.youtube.com/watch?v=SMxya-M6KhU](https://www.youtube.com/watch?v=SMxya-M6KhU)
 -   [https://www.youtube.com/watch?v=aSu7ny6dEXA](https://www.youtube.com/watch?v=aSu7ny6dEXA)
 
+- OSINT VM from TraceLabs: https://www.tracelabs.org/initiatives/osint-vm
 # Maps
 
 -   [Google Earth Pro](https://www.google.com/earth/versions/#download-pro)
