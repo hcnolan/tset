@@ -1,4 +1,5 @@
 -   [IntelTechniques](https://inteltechniques.com/tools/)
+-   [OH SHINT!](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 -   [OSINT Framework](https://osintframework.com/)
 -   [https://www.youtube.com/watch?v=-IoYSMtrBSI](https://www.youtube.com/watch?v=-IoYSMtrBSI)
 -   [https://www.youtube.com/watch?v=SMxya-M6KhU](https://www.youtube.com/watch?v=SMxya-M6KhU)
